@@ -1,0 +1,7 @@
+{
+  "name": "Bete - Ethiopian Rental Marketplace",
+  "description": "A scalable nationwide rental marketplace platform for Ethiopia, starting with Addis Ababa. Features multi-language support, dark mode, and role-based access control.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
