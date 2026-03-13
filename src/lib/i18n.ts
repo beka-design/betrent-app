@@ -475,7 +475,7 @@ const resources = {
         safetyTip3: 'የቤት ሰነዶችን ያረጋግጡ።',
         relatedTitle: 'ተዛማጅ ቤቶች',
         imageTip: 'ፍንጭ፡ ምስሉን በትልቁ ለማየት ምስሉን ይጫኑ።',
-        costLivingTitle: 'የኑሮ ውድነት',
+        costLivingTitle: 'የትራንስፖርት ወጪ',
         costLivingSubtitle: 'ጠቅላላ ወርሃዊ ወጪዎን ይገምቱ',
         costLivingDesc: 'እንደ ስራ ቦታዎ በኪራይ እና በትራንስፖርት ላይ ምን ያህል ወጪ እንደሚያወጡ ያሰሉ።',
         calculateBtn: 'ወርሃዊ ወጪን አስላ'
