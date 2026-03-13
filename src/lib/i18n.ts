@@ -208,7 +208,7 @@ const resources = {
         safetyTip3: 'Verify the property documents.',
         relatedTitle: 'Related Listings',
         imageTip: 'Tip: Click a thumbnail to view it as the main image.',
-        costLivingTitle: 'Cost of Living',
+        costLivingTitle: 'Transportation Cost',
         costLivingSubtitle: 'Estimate your total monthly spend',
         costLivingDesc: 'Calculate how much you\'ll spend on rent + transport based on your job location.',
         calculateBtn: 'Calculate Monthly Cost'
